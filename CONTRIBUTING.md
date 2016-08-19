@@ -1,37 +1,30 @@
-# Contributing to Learn.co Curriculum
+<!-- This pull request was submitted to complete a step in Learn.co. It can otherwise be ignored.-->
 
-We're really exited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Bootstrap 101 Template</title>
 
-## Raising an Issue to Encourage a Contribution
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
-If you notice a problem with the curriculum that you believe needs improvement
-but you're unable to make the change yourself, you should raise a Github issue
-containing a clear description of the problem. Include relevant snippets of
-the content and/or screenshots if applicable. Curriculum owners regularly review
-issue lists and your issue will be prioritized and addressed as appropriate.
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
 
-## Submitting a Pull Request to Suggest an Improvement
-
-If you see an opportunity for improvement and can make the change yourself go
-ahead and use a typical git workflow to make it happen:
-
-* Fork this curriculum repository
-* Make the change on your fork, with descriptive commits in the standard format
-* Open a Pull Request against this repo
-
-A curriculum owner will review your change and approve or comment on it in due
-course.
-
-# Why Contribute?
-
-Curriculum on Learn is publicly and freely available under Learn's
-[Educational Content License](https://learn.co/content-license). By
-embracing an open-source contribution model, our goal is for the curriculum
-on Learn to become, in time, the best educational content the world has
-ever seen.
-
-We need help from the community of Learners to maintain and improve the
-educational content. Everything from fixing typos, to correcting
-out-dated information, to improving exposition, to adding better examples,
-to fixing tests—all contributions to making the curriculum more effective are
-welcome.
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
